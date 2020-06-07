@@ -1,2 +1,2 @@
-# Advanced-Data-Structures
-Implemented some advanced data structures
+# Advanced Data Structures
+Practical Assignments completed during my Fourth Semester of Computer Engineering for the course: Advanced Data Structures (ADS).
